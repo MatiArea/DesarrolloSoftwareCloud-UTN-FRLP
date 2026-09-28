@@ -17,7 +17,12 @@ Universidad Tecnológica Nacional, Facultad Regional La Plata. Cursada **2026**.
 ```
 .
 ├── Clases/
-│   └── Clase0-Cloud.pptx
+│   ├── Clase0-Cloud.pptx
+│   ├── Clase1-UT1.pptx
+│   ├── Clase2-UT2-P1.pptx
+│   ├── Clase3-UT2-P2.pptx
+│   ├── Clase4-UT3-Computing and serverles.pptx
+│   └── Clase5-UT3-StorageP1.pptx
 ├── ACUERDO DE CURSADA 2026.pdf
 ├── Calendario Desarrollo de Software Cloud 2026 - UTN FRLP.pdf
 └── TPI - Desarrollo de Software Cloud.pdf
